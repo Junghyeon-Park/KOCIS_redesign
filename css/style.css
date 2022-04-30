@@ -178,8 +178,8 @@ section .bar .inner{
   width: 1150px;
 }
 section .bar .inner ul{
- padding-top: 37px;
-  height: 115px;
+ padding-top: 30px;
+ height: 115px;
 }
 section .bar .inner ul li{
   float: left;
@@ -192,7 +192,6 @@ section .bar .inner ul li a{
   display: inline-block;
   width: calc(1150px / 5);
   text-align: center;
-  margin-top: 10px;
 }
 section .bar .inner ul li p{
   color: #fff; font-size: 18px;
